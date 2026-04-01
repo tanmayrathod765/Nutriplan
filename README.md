@@ -1,4 +1,4 @@
-# NutriPlan AI - Personalized Chronic Disease Dietary Planner
+<img width="1560" height="348" alt="Screenshot 2026-04-01 114145" src="https://github.com/user-attachments/assets/e4542978-91fa-4a3a-aa71-7f465fbc2d2f" /><img width="1919" height="988" alt="Screenshot 2026-04-01 143152" src="https://github.com/user-attachments/assets/3b9d7803-3ac1-41e3-baac-c43410c75e52" /># NutriPlan AI - Personalized Chronic Disease Dietary Planner
 
 A production-ready web application that generates personalized meal plans for patients with chronic diseases (Diabetes, Hypertension, CKD, Heart Disease, Obesity, PCOD) using AI.
 
@@ -165,6 +165,17 @@ Response:
   "cholesterol": 210
 }
 ```
+
+images:
+![Uploading Screenshot <img width="952" height="527" alt="Screenshot 2026-04-01 011734" src="https://github.com/user-attachments/assets/f40346b2-018d-4047-85ec-d7cbc8342074" />
+<img width="1919" height="965" alt="Screenshot 2026-04-01 143221" src="https://github.com/user-attachments/assets/59a5dbfb-09e3-41f6-8ff2-890c34adfae3" />
+<img width="1919" height="973" alt="Screenshot 2026-04-01 143213" src="https://github.com/user-attachments/assets/b2e32e58-4776-4df4-9724-c052df53521d" />
+<img width="1919" height="988" alt="Screenshot 2026-04-01 143152" src="https://github.com/user-attachments/assets/a4a68da7-e7e0-4723-bbc1-88b0d9aee2ea" />
+<img width="1919" height="948" alt="Screenshot 2026-04-01 143138" src="https://github.com/user-attachments/assets/a2a2d26c-2ec8-436f-a3c6-49f8c2cae112" />
+<img width="1919" height="982" alt="Screenshot 2026-04-01 143053" src="https://github.com/user-attachments/assets/4bd617c1-477b-4fe5-b204-366bf4755a14" />
+2026-04-01 114145.png…]()
+
+
 
 ## 🧪 Testing
 
